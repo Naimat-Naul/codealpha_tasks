@@ -3,7 +3,6 @@
 # Introduction
 
 The **Hangman Game** is a text-based word-guessing game implemented in Python. It challenges players to guess a randomly selected word one letter at a time. The player is presented with a blank representation of the word, and they must guess the letters to uncover it. Incorrect guesses are penalized with a limited number of attempts. The game ends when the player successfully guesses the word or runs out of attempts.
-Here’s a concise and professional project description for your Hangman game, suitable for a README file on GitHub:
 
 ## **Features**
 - **Random Word Selection**: A variety of common words are selected randomly from a predefined list.
